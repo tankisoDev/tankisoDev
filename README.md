@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tankisoDev
-- 👀 I’m interested in python django, java script, tailwindcss and postgresql.
+- 👀 I’m interested in python django, javaScript, tailwindcss and postgresql.
 - 🌱 I’m currently learning Java and APIs.
 - 💞️ I’m looking to collaborate on python, java and javascript.
 - 📫 How to reach me tankiso@mitherapy.site
